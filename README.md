@@ -2,7 +2,7 @@
 
 Welcome to the Clara Bug Repository! This repository is dedicated to tracking, managing, and resolving bugs for Clara (Comprehensive Ledger and Reconciliation Automation).
 
-Purpose
+## Purpose
 The purpose of this repository is to:
 
 - Report issues and bugs encountered during development or production.
