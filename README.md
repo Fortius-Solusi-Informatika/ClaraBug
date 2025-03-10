@@ -27,3 +27,7 @@ The purpose of this repository is to:
 - **In Progress**: The bug is being investigated or worked on by a developer.
 - **Resolved**: The bug has been fixed and is awaiting testing.
 - **Closed**: The issue has been verified as resolved.
+
+## Help Topics
+### Reconciliation
+- Tidak bisa menghapus Recon Source saat source tersebut memiliki transaksi.
